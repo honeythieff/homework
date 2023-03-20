@@ -51,9 +51,72 @@ vertical-align: middle;
 	padding-top:10px;
 }
 
+.date-box2{
+	background-color: #3D58A6;
+	display: inline-block;
+	width: 56px;
+	height: 56px;
+	margin-left: 34.05px;
+	margin-top:49.19px;
+}
+
+.date2{
+	color: #FFFFFF;
+	font-size: 48px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	padding-left: 5px;
+	padding-top:10px;
+}
+
 .month{
 	margin-top:4px;
 	margin-left:35px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size:22px;
+	color: #3D58A6;
+}
+
+.news-entry{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	color: #000000;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-top:22.49px;
+}
+
+.code-image{
+	margin-top: 16.51px;
+	margin-left:30px;
+	vertical-align: top;
+}
+
+.news-text1{
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+	margin-top: 19.98px;
+	margin-left: 38.98px;
+	font-family: "BPG Ingiri Arial", sans-serif;
+}
+
+.date-box3{
+	background-color: #3D58A6;
+	width: 56px;
+	height: 56px;
+	margin-left: 30px;
+}
+
+.date3{
+	color: #FFFFFF;
+	font-size: 48px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	padding-left: 6px;
+	padding-top: 6px;
+}
+
+.third-month{
+	margin-top:4px;
+	margin-left:30px;
 	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size:22px;
 	color: #3D58A6;
