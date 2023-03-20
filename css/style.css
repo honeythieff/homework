@@ -121,3 +121,23 @@ vertical-align: middle;
 	font-size:22px;
 	color: #3D58A6;
 }
+
+.footer{
+	margin-left: 33.7px;
+	margin-bottom: 26.47px;
+}
+
+.divider{
+	height: 27px;
+	background-color: #363E97;
+	display: inline-block;
+	width: 1px;
+}
+
+.yt{
+	padding-left: 20px;
+}
+
+.fb{
+	padding-right:20px;
+}
