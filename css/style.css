@@ -33,3 +33,28 @@ vertical-align: middle;
 	margin-left: 38.99px;
 	color: #3D58A6;
 }
+
+.date-box{
+	background-color: #3D58A6;
+	display: inline-block;
+	width: 56px;
+	height: 56px;
+	margin-left: 34.05px;
+	margin-top:49.19px;
+}
+
+.date{
+	color: #FFFFFF;
+	font-size: 48px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	padding-left: 5px;
+	padding-top:10px;
+}
+
+.month{
+	margin-top:4px;
+	margin-left:35px;
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	font-size:22px;
+	color: #3D58A6;
+}
